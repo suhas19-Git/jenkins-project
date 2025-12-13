@@ -6,6 +6,7 @@ pipeline {
             steps {
                 echo 'Hello Jenkins Pipeline'
                 echo 'Idhu simple echo project'
+                echo 'new point'
             }
         }
     }
